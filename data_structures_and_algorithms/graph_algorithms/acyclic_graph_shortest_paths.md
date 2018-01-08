@@ -31,4 +31,4 @@ void Graph::dijkstra(Vertex s) {
 }
 ```
 
-Selecting unknown distance through topological order, the running time will decrease to O(|E|+|V|).
+Selecting unknown distance through topological order, the running time will decrease to O(\|E\|+\|V\|).

@@ -11,7 +11,7 @@
 - College course prerequisite structure
 - Software package dependencies
 
-#### A Simple Approach (Takes O(|v|<sup>2</sup>) Time)
+#### A Simple Approach (Takes O(\|v\|<sup>2</sup>) Time)
 
 ```c++
 // Pseudocode
@@ -27,7 +27,7 @@ void Graph::topsort() {
 }
 ```
 
-#### An Efficient Approach (Takes O(|E|+|V|) Time)
+#### An Efficient Approach (Takes O(\|E\|+\|V\|) Time)
 
 ```c++
 // Pseudocode

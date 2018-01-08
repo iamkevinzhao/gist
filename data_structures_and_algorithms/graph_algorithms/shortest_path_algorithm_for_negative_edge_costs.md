@@ -27,4 +27,4 @@ void Graph::weightedNegative(Vertex s) {
 }
 ```
 
-The algorithm costs O(|E|x|V|) time.
+The algorithm costs O(\|E\|x\|V\|) time.

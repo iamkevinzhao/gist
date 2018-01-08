@@ -33,7 +33,7 @@ void Graph::dijkstra(Vertex s) {
 }
 ```
 
-If using a priority queue to choose unknown distance vertex, the running time is O(|E|log|V|).
+If using a priority queue to choose unknown distance vertex, the running time is O(\|E\|log\|V\|).
 
 #### Remarks
 
