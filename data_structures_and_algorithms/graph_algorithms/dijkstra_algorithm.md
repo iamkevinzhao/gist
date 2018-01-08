@@ -1,5 +1,7 @@
 ## Dijkstra's Algorithm
 
+[Upper Level](README.md)
+
 Dijkstra's algorithm is for solving the weighted shortest path problem.
 
 ```c++

@@ -1,5 +1,7 @@
 ## Graph Algorithms
 
+[Upper Level](../README.md)
+
 #### Contents
 
 - [Topological Sort](topological_sort.md)
