@@ -7,7 +7,7 @@
 #### Applications
 
 - College course prerequisite structure
-- Software package dependencies[^Indegree]
+- Software package dependencies
 
 #### A Simple Approach (Takes O(|v|<sup>2</sup>) Time)
 
@@ -50,4 +50,6 @@ void Graph::topsort() {
 }
 ```
 
-[^Indegree]: The indegree of a vertex v is the number of edges (u, v) in a graph.
+---
+
+**indegree**: The indegree of a vertex v is the number of edges (u, v) in a graph.
