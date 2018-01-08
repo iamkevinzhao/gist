@@ -1,6 +1,6 @@
 ## Data Structure and Algorithms
 
-[Upper Level](README.md)
+- [Upper Level](../README.md)
 
 #### Contents
 

@@ -1,6 +1,6 @@
 ## Graph Algorithms
 
-[Upper Level](../README.md)
+- [Upper Level](../README.md)
 
 #### Contents
 

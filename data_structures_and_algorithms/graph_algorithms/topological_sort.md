@@ -1,6 +1,6 @@
 ## Topological Sort
 
-[Upper Level](README.md)
+- [Upper Level](README.md)
 
 #### Definition
 
