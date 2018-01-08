@@ -52,4 +52,6 @@ void Graph::topsort() {
 
 ---
 
-**indegree**: The indegree of a vertex v is the number of edges (u, v) in a graph.
+**indegree**: 
+
+> The indegree of a vertex v is the number of edges (u, v) in a graph.
