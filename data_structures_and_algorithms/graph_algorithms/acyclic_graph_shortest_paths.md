@@ -1,10 +1,8 @@
-## Dijkstra's Algorithm
+## Acyclic Graph Shortest Paths
 
-- [Upper Level](README.md)
+[Upper Level](README.md)
 
-#### Weighted Shortest Path
-
-- Prerequisite: All edges in the graph are positive.
+#### Dijkstra's Algorithm
 
 ```c++
 // Pseudocode
@@ -33,8 +31,4 @@ void Graph::dijkstra(Vertex s) {
 }
 ```
 
-If using a priority queue to choose unknown distance vertex, the running time is O(|E|log|V|).
-
-#### Remarks
-
-- Dijkstra's algorithm is an example of a **greedy algorithm**.
+Selecting unknown distance through topological order, the running time will decrease to O(|E|+|V|).

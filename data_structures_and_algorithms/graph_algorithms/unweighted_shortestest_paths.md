@@ -51,3 +51,6 @@ void Graph::unweighted(Vertex s) {
 }
 ```
 
+#### Remarks
+
+- In this algorithm, the strategy for searching a graph is a **breadth-first search**.
