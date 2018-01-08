@@ -7,7 +7,7 @@
 #### Applications
 
 - College course prerequisite structure
-- Software package dependencies
+- Software package dependencies[^Indegree]
 
 #### A Simple Approach (Takes O(|v|<sup>2</sup>) Time)
 
