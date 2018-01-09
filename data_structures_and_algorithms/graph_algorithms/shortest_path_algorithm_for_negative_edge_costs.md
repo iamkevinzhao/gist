@@ -1,6 +1,6 @@
 ## Shortest Path Algorithm for Negative Edge Costs
 
-[Upper Level](README.md)
+- [Upper Level](README.md)
 
 ```c++
 // Pseudocode

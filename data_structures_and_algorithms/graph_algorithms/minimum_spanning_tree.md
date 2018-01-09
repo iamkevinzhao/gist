@@ -1,6 +1,6 @@
 ## Minimum Spanning Tree
 
-[Upper Level](README.md)
+- [Upper Level](README.md)
 
 #### Definition
 
@@ -10,10 +10,10 @@
 
 Refer to "Data Structures and Algorithms Analysis in C++ 4th Edition" by Mark Allen Weiss, Chapter 9.5.1.
 
-The running time of the algorithm is O(|E|log|V|) with binary heaps.
+The running time of the algorithm is O(\|E\|log\|V\|) with binary heaps.
 
 #### Kruskal's Algorithm
 
 Refer to "Data Structures and Algorithms Analysis in C++ 4th Edition" by Mark Allen Weiss, Chapter 9.5.2.
 
-The running time of the algorithm is O(|E|log|V|).
+The running time of the algorithm is O(\|E\|log\|V\|).

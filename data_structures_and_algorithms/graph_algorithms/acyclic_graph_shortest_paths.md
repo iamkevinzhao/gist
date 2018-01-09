@@ -1,6 +1,6 @@
 ## Acyclic Graph Shortest Paths
 
-[Upper Level](README.md)
+- [Upper Level](README.md)
 
 #### Dijkstra's Algorithm
 
