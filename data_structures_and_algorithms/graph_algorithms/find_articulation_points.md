@@ -30,4 +30,4 @@ void Graph::findArt(Vertex v) {
 }
 ```
 
-Refer to "Data Structures and Algorithm Analysis Edition 4" by Mark Allen Weiss, Chapter 9.6.2 Biconnectivity.
+Refer to "Data Structures and Algorithm Analysis Edition 4" by Mark Allen Weiss, Chapter 9.6.2 "Biconnectivity".

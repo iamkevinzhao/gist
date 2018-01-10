@@ -11,4 +11,5 @@
 - [Acyclic Graph Shortest Paths](acyclic_graph_shortest_paths.md)
 - [Minimum Spanning Tree](minimum_spanning_tree.md)
 - [Find Articulation Points](find_articulation_points.md)
+- [Find Strong Components](find_strong_components.md)
 
