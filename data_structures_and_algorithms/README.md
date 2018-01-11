@@ -5,3 +5,5 @@
 #### Contents
 
 - [Graph Algorithms](graph_algorithms/README.md)
+- [Algorithm Design Techniques](algorithm_design_techniques/README.md)
+
