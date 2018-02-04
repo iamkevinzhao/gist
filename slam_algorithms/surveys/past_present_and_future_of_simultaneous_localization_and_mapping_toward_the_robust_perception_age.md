@@ -18,6 +18,7 @@ The paper focuses on metric and sematic SLAM. For topological and vision SLAM, r
 #### Terminologies
 
 - priori: the location of a set of landmarks (beacons, GPS)
+- data association: associate sensor measurement to a specific landmark in the environment
 
 #### Ages of SLAM History
 
