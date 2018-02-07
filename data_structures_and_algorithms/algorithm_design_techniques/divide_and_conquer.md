@@ -2,7 +2,7 @@
 
 - [Upper Level](README.md)
 
-Reference: "Introduction to Algorithms", Chapter 4, "Divide and Conquer"
+Also see [Book Review: Introduction to Algorithms - Divide and Conquer](book_review_introduction_to_algorithms_divide_and_conquer.md)
 
 #### Steps Involved in a Divide and Conquer Problem
 
@@ -19,3 +19,4 @@ Reference: "Introduction to Algorithms", Chapter 4, "Divide and Conquer"
 #### Case Studies
 
 - The Maximum Subarray Problem
+- Strassen's Algorithm for Matrix Multiplication
