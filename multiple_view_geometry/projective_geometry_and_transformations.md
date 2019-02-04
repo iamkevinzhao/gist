@@ -38,3 +38,25 @@ Refer to Page 27.
 
 The line through two points **x** and **x'** is **l**=**x**×**x'**.
 
+**Ideal Points**
+
+Point **x**=(x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>) where x<sub>3</sub>=0.
+
+**Line at Infinity**
+
+**l<sub>∞</sub>**=(0, 0, 1)<sup>T</sup>.
+
+All ideal points lie on the line at infinity, since (0, 0, 1)(x<sub>1</sub>, x<sub>2</sub>, 0)<sup>T</sup>=0.
+
+**Projective Plane vs. Euclidean Plane**
+
+Projective plane IP<sup>2</sup> contains ideal points, which makes it true that two distinctive lines meet in a single point, whereas Euclidean plane does not.
+
+**A Model for the Projective Plane**
+
+Points in IP<sup>2</sup> are rays in IR<sup>3</sup>; lines in IP<sup>2</sup> are planes in IR<sup>3</sup>.
+
+<img src="drawings/a_model_of_the_projective_plane.png" width="50%">
+
+
+
