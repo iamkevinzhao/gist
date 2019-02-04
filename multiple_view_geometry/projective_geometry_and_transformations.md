@@ -58,5 +58,29 @@ Points in IP<sup>2</sup> are rays in IR<sup>3</sup>; lines in IP<sup>2</sup> are
 
 <img src="drawings/a_model_of_the_projective_plane.png" width="50%">
 
+**Conics**
 
+In Euclidean geometry, conics are of three types: hyperbola, ellipse, and parabola.
+
+The equation of a conic in inhomogeneous coordinates is
+
+ax<sup>2</sup>+bxy+cy<sup>2</sup>+dx+ey+f=0
+
+after homogenization it is
+
+ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub>x<sub>2</sub>+cx<sub>2</sub><sup>2</sup>+dx<sub>1</sub>x<sub>3</sub>+ex<sub>2</sub>x<sub>3</sub>+fx<sub>3</sub><sup>2</sup>=0
+
+or in matrix form
+
+**x<sup>T</sup>Cx**=0, where C=
+
+```
+[  a  b/2 d/2 ]
+[ b/2  c  e/2 ]
+[ d/2 e/2  f  ]
+```
+
+**Result 2.7.**
+
+The line **l** tangent to **C** at a point **x** on **C** is given by **l**=**Cx**.
 
